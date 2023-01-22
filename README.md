@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
--[Visita o Projeto online](https://estersamara.github.io/nlw-setup-habits)
+-[Visite o Projeto online](https://estersamara.github.io/nlw-setup-habits)
 
 ## 🔖 Layout
 
